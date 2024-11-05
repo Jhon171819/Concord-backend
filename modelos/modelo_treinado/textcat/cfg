@@ -1,0 +1,10 @@
+{
+  "labels":[
+    "saudacao",
+    "horario",
+    "ajuda",
+    "nome"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
