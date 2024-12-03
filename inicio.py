@@ -1,7 +1,5 @@
 import spacy
-from spacy.training import Example
-from spacy.util import minibatch
-import random
+
 from treinamentos.treinamento import treinamento
 from gemini_ia import get_answer
 

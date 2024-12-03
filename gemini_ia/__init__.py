@@ -1,1 +1,1 @@
-from .get_answer import ( get_answer )
+from .get_answer import ( responder_mensagem )
