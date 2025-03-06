@@ -2,7 +2,7 @@ import os
 import google.generativeai as genai
 import os
 import spacy
-# Adiciona o diretório pai ao sys.path
+
 nlp = spacy.load("modelos\\modelo_treinado") 
 
 API_KEY = os.getenv("api_key")
