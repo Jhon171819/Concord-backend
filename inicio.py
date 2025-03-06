@@ -14,20 +14,6 @@ def responder_mensagem(mensagem):
     
     return resposta
 
-# Testar a função com diferentes mensagens
-# testes = [
-#     "Oi, tudo bem?",
-#     "Que horas são?",
-#     "Você pode me ajudar?",
-#     "Qual é o seu nome?",
-#     "Quantas horas tem um dia?"
-# ]
-
-# for mensagem in testes:
-#     resposta = responder_mensagem(mensagem)
-#     print(f"Usuário: {mensagem}")
-#     print(f"IA: {resposta}")
-
 question = input("faça uma pergunta: ")
 
 print(responder_mensagem(question))
